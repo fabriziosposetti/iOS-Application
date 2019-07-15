@@ -1,0 +1,27 @@
+/* 
+  Strings.strings
+  iOSTest
+
+  Created by Fabrizio Sposetti on 05/06/2019.
+  Copyright © 2019 D&ATechnologies. All rights reserved.
+*/
+
+"Chat" = "Chat";
+"ServerError" = "Server Error. Please try again";
+"Login" = "Login";
+"UserName" = "Username";
+"Password" = "Password";
+"Animation" = "Animation";
+"FadeIn" = "Fade in";
+"FadeOut" = "Fade out";
+"Error" = "Error: ";
+"CodingTasks" = "Coding Tasks";
+"Email" = "email";
+"password" = "password";
+"UserOrPasswordIncorrect" = "User or password incorrect";
+"Success" = "Success!";
+"RequestDuration" = "Request duration %@ milliseconds.";
+"Ok" = "Ok";
+"Fail!" = "Fail";
+"EmptyFields" = "Empty fields are not allowed";
+
